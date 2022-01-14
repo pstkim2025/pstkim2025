@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pstkim2025
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning CS231n lecture
+- 👀 I’m interested in computer vision task. 
+- 🌱 I’m currently learning cs231n
 - 📫 How to reach me -> pstkim2025@gmail.com
 
 <!---
